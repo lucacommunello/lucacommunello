@@ -1,16 +1,34 @@
-### Hi there 👋
+## Oi! 👋
+# Bem-vindo ao meu GitHub!
 
-<!--
-**lucacommunello/lucacommunello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+Olá, eu sou o Luca!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Sou um desenvolvedor Back-End | Android
+
+🎓 Estudo Análise e Desenvolvimento de Sistemas
+
+👩‍💻 Atualmente trabalho como Analista de Sustentação
+
+🔎 Também gosto de pesquisar sobre sobre Algoritmos e Estrutura de Dados, Banco de Dados, IA, Automações e CyberSecurity
+
+## Meus Projetos
+
+Nesta conta, você encontrará projetos que refletem minha jornada como estudante e entusiasta da tecnologia. 
+
+Sinta-se à vontade para explorar meus projetos e colaborar, se desejar. Adoro receber feedback e trabalhar em equipe para melhorar e expandir meu conhecimento.
+
+## Como Contribuir
+
+Se você gostaria de contribuir com algum projeto ou tiver alguma sugestão, fique à vontade para abrir uma "issue" ou enviar um "pull request". Sua contribuição é muito bem-vinda!
+
+## Contato
+
+Você pode me encontrar nas seguintes plataformas:
+
+- [LinkedIn](https://www.linkedin.com/in/lucacommunello)
+- [Gmail](mailto:lucacommunello@gmail.com)
+
+Obrigado por visitar meu perfil GitHub e explorar meus projetos. Espero que você encontre algo interessante aqui! 😄
+ 
